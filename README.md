@@ -4,7 +4,7 @@ A clean Streamlit app that compares a resume PDF against a job description and r
 
 ## Live Demo
 
-Deployment-ready for Streamlit Community Cloud or Render.
+Try the live app: https://hamza-ra.streamlit.app
 
 ## Why This Project
 
